@@ -12,7 +12,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://www.thietkeblogspot.com/search?",
+  "start_url": "https://www.thietkeblogspot.com/search/",
   "background_color": "#f7f7f7",
   "display": "standalone",
   "scope": "https://www.thietkeblogspot.com/search/",
